@@ -1,0 +1,16 @@
+{
+  "name": "ds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "animated-weather-icon": "^1.0.10",
+    "axios": "^0.27.2",
+    "require": "^2.4.20"
+  }
+}
